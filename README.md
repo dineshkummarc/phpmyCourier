@@ -1,4 +1,4 @@
-# courier-management-system
+# Courier Management System
 
 Project: Courier Management System using PHP/MySQLi
 
